@@ -1,6 +1,6 @@
 # Requirements
 
-Last update: 28.07.2024
+Last update: 29.07.2024
 
 ## A. CORE
 
@@ -25,3 +25,4 @@ Last update: 28.07.2024
 ### b. Security and logging
 
 1. Send an email when a user logs in
+2. Keep a trace file to log hard shutdowns
